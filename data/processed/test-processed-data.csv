@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,date_of_birth,gender,blood_type,email,phone,city,insurance_type,registered_at,age_from_dob
+1,Sarah,Miller,2001-12-03,Non-binary,O-,sarah.miller41@email.com,+1-691-457-5480,Toronto,Private,2024-06-06,24
+2,Jessica,Thompson,1974-01-23,Female,AB-,jessica.thompson99@email.com,+1-349-397-1689,Toronto,Private,2021-11-19,52
+3,Olivia,White,1998-11-06,Female,O-,olivia.white28@email.com,+1-406-947-9824,Toronto,Corporate,2021-01-17,27
+4,David,Brown,1995-03-27,Non-binary,B-,david.brown32@email.com,+1-251-785-9700,Houston,Medicare,2018-08-04,31
+5,Michael,Jackson,1969-08-19,Non-binary,O-,michael.jackson13@email.com,+1-897-889-3252,New York,Corporate,2019-10-09,56
+6,Liam,Osei,1982-09-04,Female,B-,liam.osei97@email.com,+1-494-428-5676,Dubai,Private,2019-01-02,43
+7,Susan,Robinson,1960-10-31,Non-binary,A+,susan.robinson23@email.com,+1-627-957-3880,New York,Uninsured,2023-07-23,65
+9,Susan,Thompson,1987-01-14,Female,B+,susan.thompson65@email.com,+1-679-379-4159,Mumbai,Private,2021-09-16,39
+10,William,Nakamura,1981-03-03,Non-binary,AB+,william.nakamura92@email.com,+1-390-114-6523,Mumbai,Medicaid,2024-05-14,45
+11,Jessica,Patel,1957-04-30,Male,O+,jessica.patel55@email.com,+1-727-435-2421,London,Private,2020-01-27,69

@@ -1,0 +1,5 @@
+Patient ID,First Name,Date of Birth,Age,Amount Billed,Amount Paid
+1, Ana ,2000-01-01,24,1000,750
+2,,not-a-date,200,-50,25
+2,,not-a-date,200,-50,25
+bad,Maya,1985-05-20,-4,0,0

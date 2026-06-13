@@ -1,0 +1,4 @@
+patient_id,first_name,date_of_birth,age,amount_billed,amount_paid,age_from_dob,bill_collection_rate
+1,Ana,2000-01-01,24.0,1000.0,750.0,26,0.75
+2,Ana,1985-05-20,24.0,500.0,25.0,41,0.05
+2,Maya,1985-05-20,24.0,0.0,0.0,41,0.0
